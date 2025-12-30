@@ -16,6 +16,7 @@ I'm an experienced front-end developer with hands-on expertise in building dynam
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanketpatil02&icon=0&color=0)](https://visitcount.itsvg.in)
+![counter](https://en1qodfjyx0p72o.m.pipedream.net)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
